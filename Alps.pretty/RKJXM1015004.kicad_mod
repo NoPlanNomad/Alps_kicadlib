@@ -63,7 +63,7 @@
   (pad "5" thru_hole circle (at 4.95 -1) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp eb7a6912-0fee-4c2e-88e3-90c486ea3adf))
   (pad "6" thru_hole circle (at -1 -4.95) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp f92baacc-867e-44df-8318-a958be51c51a))
   (pad "7" thru_hole circle (at -4.95 1) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp d38e51d5-17cb-4a3b-8481-3ce6c91f324a))
-  (model "${KICAD_APLSLIB_DIR}/Alps.3dshapes/RKJXM1015004.STEP"
+  (model "../libraries/Alps_kicadlib/Alps.3dshapes/RKJXM1015004.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
